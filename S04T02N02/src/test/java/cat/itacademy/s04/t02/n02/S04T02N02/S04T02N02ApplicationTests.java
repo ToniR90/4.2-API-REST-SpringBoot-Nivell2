@@ -9,5 +9,4 @@ class S04T02N02ApplicationTests {
 	@Test
 	void contextLoads() {
 	}
-
 }
