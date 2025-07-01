@@ -82,5 +82,16 @@ Errors will return HTTP 400 with helpful messages.
 - Please use application-example.properties to replicate configuration
 - Hibernate auto-generates the fruits table upon app startup
 
+---
+
+## 🌐 Usefull resources
+
+### _*Beginner's CRUD guide Spring + MySQL*_
+
+https://dev.to/abhi9720/a-beginners-guide-to-crud-operations-of-rest-api-in-spring-boot-mysql-5hcl
+
+
+https://www.youtube.com/watch?v=1BYxZCFjfyU
+
 
 
